@@ -1,7 +1,5 @@
-## Hi there 👋
-
-![mpcabete's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpcabete&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)
+![mpcabete's GitHub stats](https://github-readme-stats-five-lake-36.vercel.app/api?username=mpcabete&show_icons=true&theme=gruvbox)
+![Top Langs](https:/github-readme-stats-five-lake-36.vercel.app/api/top-langs/?username=ampcabete&layout=compact&theme=gruvbox)
 <!--
 **mpcabete/mpcabete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
